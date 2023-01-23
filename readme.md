@@ -1,6 +1,6 @@
-![Homepage screenshot](./src/img/Capa-JQEJF.png)
+![Homepage screenshot](./src/img/TheGamesIWent-Homepage-Screenshot.png)
 
-# The Games I Went ([Website link](https://viniroveri.github.io/JogosQueEuJaFui/#/))
+# The Games I Went ([Website link](https://thegamesiwent.vercel.app/))
 
 
 ## What is this?
