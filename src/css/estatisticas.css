@@ -60,7 +60,7 @@ td{
 }
 
 th,td{
-    padding: .7rem .5rem;
+    padding: 1rem .5rem;
 }
 
 th:not(.time-titulo){

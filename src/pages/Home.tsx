@@ -32,7 +32,7 @@ const Home = ()=>{
                 <h2 className='pesquisaHome-titulo animaTextoHome2'>Search something on the site:</h2>
                 <p className='pesquisaHome-texto animaTextoHome3'>Search for Teams, Championships, Stadiums or Dates!</p>
                 <div className="animaTextoHome4">
-                    <CampoPesquisa type="search" placeholder="Pesquise Aqui!"/>
+                    <CampoPesquisa type="search" placeholder="Search here!"/>
                 </div>
             </section>
         </main>
