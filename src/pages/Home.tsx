@@ -23,7 +23,7 @@ const Home = ()=>{
             <section className="home-textos animaTextoHome1">
                 <p>Welcome!
                 </p>
-                <p>This page was made to serve as a personal collection of all the football games I've been to and will go to in my life.!
+                <p>This page was made to serve as a personal collection of all the football games I've been to and will go to in my life!
                 </p>
                 <p>Here there is information about all the games, lineups, goals, championships and everything you may want to see!
                 </p>
