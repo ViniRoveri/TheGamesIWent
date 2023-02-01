@@ -3,7 +3,7 @@
 # The Games I Went ([Website link](https://thegamesiwent.vercel.app/))
 
 
-I used React, TypeScript and the React Router to create a website where information, data and statistics are archived about all the football matches I have ever attended in my life. The games are on a NoSQL REST API that was built with NodeJS, Express and MongoDB and controlled locally.
+Website created with React, TypeScript and the React Router where information, data and statistics are archived about all the football matches I have ever attended in my life. The games are on a NoSQL REST API that was built with NodeJS, Express and MongoDB and controlled locally.
 
 
 ## What challenges did I overcome working on this?
