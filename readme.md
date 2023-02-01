@@ -1,6 +1,6 @@
 ![Homepage screenshot](./src/img/TheGamesIWent-Homepage-Screenshot.png)
 
-# The Games I Went ([Website link](https://thegamesiwent.vercel.app/))
+# **The Games I Went** ([Website link](https://thegamesiwent.vercel.app/))
 
 
 Website created with React, TypeScript and the React Router where information, data and statistics are archived about all the football matches I have ever attended in my life. The games are on a NoSQL REST API that was built with NodeJS, Express and MongoDB and controlled locally.
